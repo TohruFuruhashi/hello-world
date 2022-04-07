@@ -1,2 +1,3 @@
 # python
-pythonに関するものを蓄積していきます。
+
+I would like to store information about Python.
