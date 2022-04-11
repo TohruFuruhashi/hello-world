@@ -1,3 +1,6 @@
+import shutil
+import gzip
+
 try:
     with gzip.open(gzipFilePath, mode="rb") as gzipFile:
         with open(decompressedFilePath, mode="wb") as decompressedFile:
