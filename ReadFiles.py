@@ -1,3 +1,5 @@
+import glob
+
 readFiles = glob.glob(workDir)
 
 for readFilePath in readFiles:
