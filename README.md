@@ -1,6 +1,4 @@
 # python
 
-I would like to store information about Python.
-
-Pythoに関するあれこれを蓄積していきます。
+I would like to store small scripts.
 
